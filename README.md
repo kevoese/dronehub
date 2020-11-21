@@ -1,2 +1,2 @@
 # dronehub
-drone shopping site
+drone shopping site using vanilla js, html and css
